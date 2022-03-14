@@ -1,7 +1,8 @@
 # Project for practising Unit, Integration & E2E testing.
+
 by @helladyo
 
-## Based on the repo: https://github.com/Developero-oficial/javascript-te 
+## Based on the github repository: https://github.com/Developero-oficial/javascript-testing
 
 ### Introducción al testing automatizado en Javascript by Developero
 
